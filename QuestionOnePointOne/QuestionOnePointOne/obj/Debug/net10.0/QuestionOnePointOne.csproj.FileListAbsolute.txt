@@ -1,0 +1,14 @@
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\bin\Debug\net10.0\QuestionOnePointOne.exe
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\bin\Debug\net10.0\QuestionOnePointOne.deps.json
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\bin\Debug\net10.0\QuestionOnePointOne.runtimeconfig.json
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\bin\Debug\net10.0\QuestionOnePointOne.dll
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\bin\Debug\net10.0\QuestionOnePointOne.pdb
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\obj\Debug\net10.0\QuestionOnePointOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\obj\Debug\net10.0\QuestionOnePointOne.AssemblyInfoInputs.cache
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\obj\Debug\net10.0\QuestionOnePointOne.AssemblyInfo.cs
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\obj\Debug\net10.0\QuestionOnePointOne.csproj.CoreCompileInputs.cache
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\obj\Debug\net10.0\QuestionOnePointOne.dll
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\obj\Debug\net10.0\refint\QuestionOnePointOne.dll
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\obj\Debug\net10.0\QuestionOnePointOne.pdb
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\obj\Debug\net10.0\QuestionOnePointOne.genruntimeconfig.cache
+C:\School\Assessments\SDT621\SummativeAssessment\QuestionOnePointOne\QuestionOnePointOne\QuestionOnePointOne\obj\Debug\net10.0\ref\QuestionOnePointOne.dll
